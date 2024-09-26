@@ -1,0 +1,137 @@
+index,name,fechas,equipos
+0,Campeonato 1931,305,18
+1,Campeonato 1932,307,18
+2,Campeonato 1933,306,18
+3,Campeonato 1934,211,13
+4,Campeonato 1935,306,18
+5,Campeonato 1936,154,18
+6,Campeonato 1937,307,18
+7,Campeonato 1938,272,17
+8,Campeonato 1939,274,17
+9,Campeonato 1940,294,18
+10,Campeonato 1941,240,16
+11,Campeonato 1942,240,16
+12,Campeonato 1943,240,16
+13,Campeonato 1944,240,16
+14,Campeonato 1945,240,16
+15,Campeonato 1946,240,16
+16,Campeonato 1947,240,16
+17,Campeonato 1948,238,16
+18,Campeonato 1949,312,18
+19,Campeonato 1950,317,18
+20,Campeonato 1951,274,17
+21,Campeonato 1952,240,16
+22,Campeonato 1953,240,16
+23,Campeonato 1954,240,16
+24,Campeonato 1955,240,16
+25,Campeonato 1956,240,16
+26,Campeonato 1957,240,16
+27,Campeonato 1958,241,16
+28,Campeonato 1959,240,16
+29,Campeonato 1960,240,16
+30,Campeonato 1961,240,16
+31,Campeonato 1962,210,15
+32,Campeonato 1963,182,14
+33,Campeonato 1964,240,16
+34,Campeonato 1965,306,18
+35,Campeonato 1966,380,20
+36,Campeonato 1985/86,360,23
+37,Campeonato 1986/87,395,23
+38,Campeonato 1987/88,414,21
+39,Campeonato 1988/89,429,21
+40,Campeonato 1989/90,387,20
+41,Campeonato 1990/91,190,20
+42,Campeonato 2015,468,30
+43,Campeonato 2016/17,450,30
+44,Copa de Honor 1936,149,18
+45,Liga 2021,54,26
+46,Metropolitano 1967,245,22
+47,Metropolitano 1968,334,26
+48,Metropolitano 1969,324,24
+49,Metropolitano 1970,255,22
+50,Metropolitano 1971,342,19
+51,Metropolitano 1972,306,18
+52,Metropolitano 1973,272,17
+53,Metropolitano 1974,169,18
+54,Metropolitano 1975,380,20
+55,Metropolitano 1976,353,22
+56,Metropolitano 1977,507,23
+57,Metropolitano 1978,420,21
+58,Metropolitano 1979,198,20
+59,Metropolitano 1980,342,19
+60,Metropolitano 1981,306,18
+61,Metropolitano 1982,342,19
+62,Metropolitano 1983,342,19
+63,Metropolitano 1984,342,19
+64,Nacional 1967,266,34
+65,Nacional 1968,179,24
+66,Nacional 1969,155,18
+67,Nacional 1970,205,20
+68,Nacional 1971,197,28
+69,Nacional 1972,173,25
+70,Nacional 1973,231,30
+71,Nacional 1974,319,34
+72,Nacional 1975,285,32
+73,Nacional 1976,281,33
+74,Nacional 1977,230,32
+75,Nacional 1978,238,32
+76,Nacional 1979,212,28
+77,Nacional 1980,210,28
+78,Nacional 1981,210,28
+79,Superfinal 2013,1,2
+80,Superliga 2017/18,378,28
+81,Superliga 2018/19,325,26
+82,Superliga 2019/20,276,24
+83,Torneo 2016,242,30
+84,Torneo Apertura 1991,190,20
+85,Torneo Apertura 1992,190,20
+86,Torneo Apertura 1993,190,20
+87,Torneo Apertura 1994,190,20
+88,Torneo Apertura 1995,190,20
+89,Torneo Apertura 1996,190,20
+90,Torneo Apertura 1997,190,20
+91,Torneo Apertura 1998,190,20
+92,Torneo Apertura 1999,190,20
+93,Torneo Apertura 2000,190,20
+94,Torneo Apertura 2001,190,20
+95,Torneo Apertura 2002,190,20
+96,Torneo Apertura 2003,190,20
+97,Torneo Apertura 2004,190,20
+98,Torneo Apertura 2005,190,20
+99,Torneo Apertura 2006,191,20
+100,Torneo Apertura 2007,190,20
+101,Torneo Apertura 2008,193,20
+102,Torneo Apertura 2009,190,20
+103,Torneo Apertura 2010,190,20
+104,Torneo Apertura 2011,190,20
+105,Torneo Clausura 1991,206,20
+106,Torneo Clausura 1992,201,20
+107,Torneo Clausura 1993,190,20
+108,Torneo Clausura 1994,190,20
+109,Torneo Clausura 1995,190,20
+110,Torneo Clausura 1996,190,20
+111,Torneo Clausura 1997,190,20
+112,Torneo Clausura 1998,190,20
+113,Torneo Clausura 1999,190,20
+114,Torneo Clausura 2000,194,22
+115,Torneo Clausura 2001,194,22
+116,Torneo Clausura 2002,194,22
+117,Torneo Clausura 2003,194,22
+118,Torneo Clausura 2004,194,22
+119,Torneo Clausura 2005,194,22
+120,Torneo Clausura 2006,194,22
+121,Torneo Clausura 2007,194,22
+122,Torneo Clausura 2008,194,22
+123,Torneo Clausura 2009,194,22
+124,Torneo Clausura 2010,194,22
+125,Torneo Clausura 2011,195,22
+126,Torneo Clausura 2012,194,22
+127,Torneo Final 2013,190,20
+128,Torneo Final 2014,190,20
+129,Torneo Inicial 2012,190,20
+130,Torneo Inicial 2013,190,20
+131,Torneo Nacional 1982,238,31
+132,Torneo Nacional 1983,186,30
+133,Torneo Nacional 1984,102,28
+134,Torneo Nacional 1985,160,32
+135,Torneo de Transicion 2014,190,20
